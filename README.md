@@ -9,11 +9,7 @@
 
 <br>use the android to locate the magnet, a project of Android Studio that use the android phone to locate a magenet.
 the position of the magnet has been packaged to messages.
-<<<<<<< HEAD
-video: https://youtu.be/1LDVhWIXDdg
-=======
->>>>>>> origin/master
 
-<br>video: http://v.youku.com/v_show/id_XODQ3MDgzMTUy.html?from=s1.8-1-1.2
+<br>video: https://youtu.be/1LDVhWIXDdg
 <br>blog:http://www.cnblogs.com/amazingyyc/p/4208423.html
 <br>e-mail:1219186770@qq.com/amazingyyc@gmail.com
